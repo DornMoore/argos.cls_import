@@ -1,6 +1,4 @@
-﻿
-
 argosUser = 'argosUser'
 argosPass = 'argosPass'
-argosProgram = '15851'
-db_string = "postgresql+psycopg2://icf:password@host:5432/icf" 
+argosProgram = '1234'
+db_string = "postgresql+psycopg2://USER:PASSWORD@HOST:5432/DATABASE" 
